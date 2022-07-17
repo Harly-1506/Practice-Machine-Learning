@@ -22,3 +22,13 @@ In this repo, I share the algorithms I've trained in Machine Learning
 ### 4. Decision tree
 
 * [Decision tree with sklearn](https://scikit-learn.org/stable/modules/tree.html)
+
+#### I will update some Machine Learning algorithms
+
+_____
+
+**If you like  this repo, just star to support me** :star:
+
+**Enjoy with Code** :wink:
+
+**Harly**
