@@ -19,3 +19,6 @@ In this repo, I share the algorithms I've trained in Machine Learning
 * [Understand KNN in VietNamese](https://machinelearningcoban.com/2017/01/08/knn/)
 * [KNN with sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 
+### 4. Decision tree
+
+* [Decision tree with sklearn](https://scikit-learn.org/stable/modules/tree.html)
