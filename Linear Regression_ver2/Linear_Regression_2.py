@@ -41,7 +41,7 @@ def training(X, y, weight, bias, learning_rate, iter):
 
 
 df = pd.read_csv(
-    "H:\Python\Python Practice\Basic_ML\Linear Regression_ver2\Advertising.csv"
+    "...\Linear Regression_ver2\Advertising.csv"
 )
 
 X = df.values[:, 2]
