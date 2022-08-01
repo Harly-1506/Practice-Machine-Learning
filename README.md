@@ -23,6 +23,9 @@ In this repo, I share the algorithms I've trained in Machine Learning
 
 * [Decision tree with sklearn](https://scikit-learn.org/stable/modules/tree.html)
 
+### 5. Logistic Regression
+
+*[Understrand Logistic Regression in VietNamese ](https://machinelearningcoban.com/2017/01/27/logisticregression/)
 #### I will update some Machine Learning algorithms
 
 _____
