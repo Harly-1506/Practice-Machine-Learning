@@ -60,7 +60,7 @@ parameters = {
 
     })
 }
-# Lựa chọn cấu hình: kiểm thử chéo (chia X_train thành 5 phần)
+# Use GirdSearchCv to choose best model and param and K-fold for X_train
 grid = GridSearchCV(pipe, parameters, cv=5, scoring='accuracy', verbose=1)
 grid.fit(X_train, y_train)
 
