@@ -27,6 +27,9 @@ In this repo, I share the algorithms I've trained in Machine Learning
 
 * [Understrand Logistic Regression in VietNamese ](https://machinelearningcoban.com/2017/01/27/logisticregression/)
 * [Logistic Regression with sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+### 6. GridSearchCV
+* [Exhaustive search over specified parameter values for an estimator](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 #### I will update some Machine Learning algorithms
 
 _____
