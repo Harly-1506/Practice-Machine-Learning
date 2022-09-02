@@ -8,7 +8,9 @@ In this repo, I share the algorithms I've trained in Machine Learning
 ### 1. Linear Regression
 
 
-* Simple math formula: $\mathcal{L}(w) = \frac{1}{2} \sum_{i=0}^N \(y_i - \hat{x}w)^2 $
+
+* Simple math formula: $\mathcal{L}(w) = \frac{1}{2}$ $\sum_{i=0}^{n}$ $\(y_i - \hat{x}w)^2 $
+
 
 
 * [Understand Linear Regression in VietNamese](https://machinelearningcoban.com/2016/12/28/linearregression/)
